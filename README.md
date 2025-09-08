@@ -22,7 +22,7 @@ Goals & Requirements:
 - Functional:
   1. User Registration: Email/phone login, privacy-compliant.
   2. Health Goal Selection: Form for goals (e.g., weight loss, muscle gain), save preferences.
-  3. Food Nutrient Database: 500+ foods with nutrition data, searchable.
+  3. Food Nutrient Database: 100+ foods with nutrition data, searchable.
   4. Personalized Recommendation: 3-5 options per goal, including recipes.
   5. Nutrition Reports: Breakdown and tips, downloadable PDF.
   6. Compatibility: Responsive design, optional image integration.
