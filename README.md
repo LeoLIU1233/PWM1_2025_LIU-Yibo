@@ -31,4 +31,4 @@ Goals & Requirements:
   2. Usability: WCAG-compliant, intuitive UI.
   3. Security: HTTPS, encrypted data.
   4. Maintainability: Modular code, Git version control.
-  5. Tech Stack: React, Django, SQLite/PostgreSQL, Vercel/AWS.
+
