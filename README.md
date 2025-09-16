@@ -1,6 +1,6 @@
 ### Updated Plan Note:
 
-**09/2025 Plan: Scheme 1: Kids' Fun Nutrition Guide**
+**09/2025 Plan(Week3): Scheme 1: Kids' Fun Nutrition Guide**
 
 **Direction:** Develop a user-friendly web system for personalized food recommendations tailored for children aged 3-12 and their parents using WordPress, focusing on frontend interaction and recommendation logic. This is part of a collaborative effort with a team of 4 on the "Food Component Detection for Dietary Recommendation" project, emphasizing growth, immunity, and overcoming picky eating habits.
 
