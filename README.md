@@ -16,7 +16,7 @@
 
 - **Functional:**
   - **User Registration:** Email/phone login for parents via WordPress user management, privacy-compliant, with child profile creation (age, weight, preferences) using custom fields or a plugin like Profile Builder.
-  - **Health Goal Selection:** Form with kid-specific goals (e.g., growth development, immune boost, overcoming picky eating) using WordPress forms (e.g., WPForms or Gravity Forms), save preferences with a playful interface (e.g., sliders or cartoon selectors via custom CSS).
+  - **Health Goal Selection:** Form with kid-specific goals (e.g., growth development, immune boost, overcoming picky eating) using WordPress forms (e.g., WPForms or Gravity Forms)
   - **Food Nutrient Database:** 100+ kid-friendly foods with nutrition data (e.g., bananas, eggs) managed via custom post types or a plugin like Advanced Custom Fields (ACF), searchable with a custom search plugin.
   - **Personalized Recommendation:** 3-5 fun options per goal displayed as custom posts or pages, including animated recipe steps via embedded videos or GIFs, tailored to age (e.g., <1800kcal/day for 4-8 years) using a custom plugin or shortcode.
   - **Nutrition Reports:** Colorful progress bars for "growth points" (e.g., protein +10 points) using WordPress charts plugins (e.g., WP Charts), downloadable PDF for parents with school lunch tips via a plugin like WP PDF Generator.
