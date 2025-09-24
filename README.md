@@ -14,7 +14,7 @@ Updated Plan Note:
 
 **Goals & Requirements:**
 - **Functional:**
-- **User Registration:** 
+- **User Registration:**
 	Email/phone login for parents via WordPress user management (e.g., using the built-in registration system enhanced with plugins like Ultimate Member or Profile Builder), privacy-compliant with GDPR and child data protection standards (e.g., COPPA compliance for under-13 users).
 
 	Parents can create multiple child profiles, including details like age (3-12 years), weight, height, allergies, and favorite foods. Upon registration, a welcome email is sent with tips on using the site. 
