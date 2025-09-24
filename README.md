@@ -19,12 +19,10 @@ Updated Plan Note:
 
 	Parents can create multiple child profiles, including details like age (3-12 years), weight, height, allergies, and favorite foods. Upon registration, a welcome email is sent with tips on using the site. 
 
-	To add interactivity, include a simple "Welcome Adventure" mini-game during profile setup: a drag-and-drop puzzle where kids match cartoon foods to categories (e.g., "Super Veggies" vs. "Energy Fruits"), unlocking a personalized avatar for their profile as a reward to encourage completion.
-
 - **Health Goal Selection:** 
 	Form with kid-specific goals (e.g., growth development for balanced height/weight gain, immune boost for stronger defenses against colds, overcoming picky eating for trying new foods) using WordPress forms (e.g., WPForms or Gravity Forms with conditional logic), allowing parents or kids to save preferences with a playful interface (e.g., colorful sliders, cartoon selectors, or emoji-based choices).
 
-	Goals are tied to age-appropriate nutritional guidelines (e.g., daily veggies 2-3 servings for 3-6 year olds). Integrate an interactive "Goal Quest" mini-game here: a choose-your-own-adventure style game where kids select goals by navigating a virtual food forest (e.g., "Climb the Protein Tree for growth!" using JavaScript or a plugin like H5P for interactive content), making selections fun and educational while collecting "nutrition badges" that influence recommendations.
+	Goals are tied to age-appropriate nutritional guidelines (e.g., daily veggies 2-3 servings for 3-6 year olds).To add interactivity, include a simple "Welcome Adventure" mini-game during profile setup: a drag-and-drop puzzle where kids match cartoon foods to categories (e.g., "Super Veggies" vs. "Energy Fruits"), unlocking a personalized avatar for their profile as a reward to encourage completion.
 
 - **Food Nutrient Database:** 
 	100+ kid-friendly foods with detailed nutrition data (e.g., bananas for potassium and energy, eggs for protein and brain health) managed via custom post types or a plugin like Advanced Custom Fields (ACF) and Pods, making it searchable with filters (e.g., by nutrient like "high in vitamin C" or by fun categories like "rainbow colors"). Each food entry includes kid-appealing descriptions, images, and facts (e.g., "Bananas make monkeys strong – and you too!").
