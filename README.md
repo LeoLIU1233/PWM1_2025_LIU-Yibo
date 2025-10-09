@@ -1,7 +1,7 @@
 Updated Plan Note:
 SiteGround : Using Data Center- Asia, Singapore
 
-**kids-nutrition-fun.com**
+**https://kids-nutrition-fun.com**
 **09/2025 Plan(Week 4): Scheme 1: Kids' Fun Nutrition Guide**
 
 
