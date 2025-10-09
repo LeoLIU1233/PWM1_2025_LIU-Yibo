@@ -1,12 +1,7 @@
 Updated Plan Note:
 SiteGround : Using Data Center- Asia, Singapore
 
-**1.kids-nutrition-fun.com**
-
-**2.nutrition-food-for-kids.com**
-
-**3.happy-kid-meals.com**
-
+**kids-nutrition-fun.com**
 **09/2025 Plan(Week 4): Scheme 1: Kids' Fun Nutrition Guide**
 
 **Direction:** Develop a user-friendly web system for personalized food recommendations tailored for children aged 3-12 and their parents using WordPress, focusing on frontend interaction and recommendation logic. This is part of a collaborative effort with a team of 4 on the "Food Component Detection for Dietary Recommendation" project, emphasizing growth, immunity, and overcoming picky eating habits.
@@ -48,6 +43,17 @@ SiteGround : Using Data Center- Asia, Singapore
   - **Usability:** WCAG-compliant, intuitive UI with cartoon themes using custom WordPress styling, touch-friendly big buttons, and dual mode (parent/kid) via user role management.
   - **Security:** HTTPS, encrypted data with WordPress security plugins (e.g., Wordfence), no ads, strict privacy for child data accessible only by parents using role-based access.
   - **Maintainability:** Modular code with WordPress best practices, Git version control for theme/plugin development.
+  - 
+Supporting Evidence and Literature Review References
+To substantiate the above, the following URLs provide key evidence from peer-reviewed sources, reports, and comparative tools. These were selected for recency, relevance, and authority:
 
+WHO Childhood Nutrition Factsheet (global statistics on stunting/obesity): https://www.who.int/news-room/fact-sheets/detail/healthy-diet
+CDC Child Nutrition Guidelines (picky eating and caloric needs): https://www.cdc.gov/nutrition/infantandtoddlernutrition/foods-and-drinks/index.html
+Hong Kong Department of Health Obesity Report (local context, 22% prevalence): https://www.dh.gov.hk/english/statistics/statistics_hs/files/2022_Student_Health_Survey.pdf
+Nutrients Review on Gamified Nutrition Apps (2023, efficacy data): https://www.mdpi.com/2072-6643/15/5/1123
+Pediatrics Study on Picky Eating Prevalence (2021): https://publications.aap.org/pediatrics/article/147/3/e2020048275/179999/Food-Neophobia-in-Children-The-Relationship-With
+JMIR Meta-Analysis on Adherence in Digital Tools (2022): https://www.jmir.org/2022/6/e37281
+MyFitnessPal Kids' Module Overview (existing system limitations): https://www.myfitnesspal.com/family
+Keep App Nutrition Features (comparative research target): https://keep.com/en/nutrition
 
 
