@@ -43,7 +43,7 @@ SiteGround : Using Data Center- Asia, Singapore
   - **Usability:** WCAG-compliant, intuitive UI with cartoon themes using custom WordPress styling, touch-friendly big buttons, and dual mode (parent/kid) via user role management.
   - **Security:** HTTPS, encrypted data with WordPress security plugins (e.g., Wordfence), no ads, strict privacy for child data accessible only by parents using role-based access.
   - **Maintainability:** Modular code with WordPress best practices, Git version control for theme/plugin development.
-  - 
+
 Supporting Evidence and Literature Review References
 To substantiate the above, the following URLs provide key evidence from peer-reviewed sources, reports, and comparative tools. These were selected for recency, relevance, and authority:
 
