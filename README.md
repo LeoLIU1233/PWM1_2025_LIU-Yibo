@@ -8,6 +8,9 @@ SiteGround : Using Data Center- Asia, Singapore
 **Background:**
 Childhood nutrition plays a pivotal role in physical growth, cognitive development, and immune system fortification, particularly during the formative years of ages 3-12, when rapid physiological changes occur and lifelong eating habits are established
 
+**Problem Statement:**
+The core problem addressed by this project is the lack of engaging, personalized digital tools that effectively guide parents and children aged 3-12 toward balanced nutrition, specifically targeting growth development, immune boosting, and overcoming picky eating habits in a fun, interactive manner.
+
 **Direction:** Develop a user-friendly web system for personalized food recommendations tailored for children aged 3-12 and their parents using WordPress, focusing on frontend interaction and recommendation logic. This is part of a collaborative effort with a team of 4 on the "Food Component Detection for Dietary Recommendation" project, emphasizing growth, immunity, and overcoming picky eating habits.
 
 **Outline:**
