@@ -48,13 +48,7 @@ Supporting Evidence and Literature Review References
 To substantiate the above, the following URLs provide key evidence from peer-reviewed sources, reports, and comparative tools. These were selected for recency, relevance, and authority:
 
 WHO Childhood Nutrition Factsheet (global statistics on stunting/obesity): https://www.who.int/news-room/fact-sheets/detail/healthy-diet
-CDC Child Nutrition Guidelines (picky eating and caloric needs): https://www.cdc.gov/nutrition/infantandtoddlernutrition/foods-and-drinks/index.html
-Hong Kong Department of Health Obesity Report (local context, 22% prevalence): https://www.dh.gov.hk/english/statistics/statistics_hs/files/2022_Student_Health_Survey.pdf
-Nutrients Review on Gamified Nutrition Apps (2023, efficacy data): https://www.mdpi.com/2072-6643/15/5/1123
-Pediatrics Study on Picky Eating Prevalence (2021): https://publications.aap.org/pediatrics/article/147/3/e2020048275/179999/Food-Neophobia-in-Children-The-Relationship-With
-JMIR Meta-Analysis on Adherence in Digital Tools (2022): https://www.jmir.org/2022/6/e37281
-MyFitnessPal Kids' Module Overview (existing system limitations): https://www.myfitnesspal.com/family
-Keep App Nutrition Features (comparative research target): https://keep.com/en/nutrition
+
 
 Childhood Nutrition Facts：https://www.cdc.gov/school-nutrition/facts/index.html
 Early childhood nutrition：https://www.unicef.org/nutrition/early-childhood-nutrition
