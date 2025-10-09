@@ -60,4 +60,6 @@ Childhood Nutrition Facts：https://www.cdc.gov/school-nutrition/facts/index.htm
 Early childhood nutrition：https://www.unicef.org/nutrition/early-childhood-nutrition
  Why nutrition programs for children remain important： https://www.sciencedirect.com/science/article/abs/pii/S2452263523000095
  Adequate Nutrition in Early Childhood：https://pmc.ncbi.nlm.nih.gov/articles/PMC10377795/
+ Kid’s Healthy Eating Plate： https://nutritionsource.hsph.harvard.edu/kids-healthy-eating-plate/
+ Dietary Recommendations for Healthy Children： https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/dietary-recommendations-for-healthy-children
  
