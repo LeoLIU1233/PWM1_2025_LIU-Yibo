@@ -56,4 +56,8 @@ JMIR Meta-Analysis on Adherence in Digital Tools (2022): https://www.jmir.org/20
 MyFitnessPal Kids' Module Overview (existing system limitations): https://www.myfitnesspal.com/family
 Keep App Nutrition Features (comparative research target): https://keep.com/en/nutrition
 
-
+Childhood Nutrition Facts：https://www.cdc.gov/school-nutrition/facts/index.html
+Early childhood nutrition：https://www.unicef.org/nutrition/early-childhood-nutrition
+ Why nutrition programs for children remain important： https://www.sciencedirect.com/science/article/abs/pii/S2452263523000095
+ Adequate Nutrition in Early Childhood：https://pmc.ncbi.nlm.nih.gov/articles/PMC10377795/
+ 
