@@ -1,0 +1,3 @@
+[06-Oct-2025 08:57:35 UTC] wp_auto_login: trying to login user_id==1 loginusername=leoliuyibo@gmail.com to admin_url=https://kids-nutrition-fun.com/wp-admin/
+[17-Dec-2025 19:14:27 UTC] Cron 重新计划事件时出现错误，钩子名称：action_scheduler_run_queue，错误代码：could_not_set，错误消息：无法保存 Cron 事件列表。，数据：{"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Dec-2025 19:14:27 UTC] Cron 重新计划事件时出现错误，钩子名称：wp_version_check，错误代码：could_not_set，错误消息：无法保存 Cron 事件列表。，数据：{"schedule":"twicedaily","args":[],"interval":43200}
